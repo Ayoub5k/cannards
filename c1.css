@@ -1,0 +1,48 @@
+
+
+body
+{
+	background-color: #233142;
+}
+
+a
+{
+	color:red;
+}
+
+
+#centre
+{
+	width: 900px;
+	background-color: #455d7a;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+}
+
+img
+{
+	width: 450px;
+	height: 327px;
+}
+
+h1
+{
+	color:#e3e3e3;
+	background-color: #f95959;
+}
+
+h2
+{
+	color:#e3e3e3;
+	background-color: #f95959;
+}
+
+h3
+{
+	color:black;
+	background-color: #e3e3e3;
+	
+}
+
+
